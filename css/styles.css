@@ -1,3 +1,6 @@
 #tall, #short{
   display: none;
 }
+body{
+  text-align: center;
+}
